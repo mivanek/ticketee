@@ -22,6 +22,7 @@ end
 
 group :test, :development do
   gem 'rspec-rails', '~> 2.5'
+  gem 'pry-rails'
 end
 
 group :test do
